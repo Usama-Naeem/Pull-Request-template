@@ -7,7 +7,7 @@
 ### Solution description
 
 
-### Did you test this issue fix on all browser?
+### Did you test this on all browser?
 - [ ] Firefox
 - [ ] Chrome
 - [ ] Safari
